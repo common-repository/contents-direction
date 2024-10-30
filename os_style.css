@@ -1,0 +1,7 @@
+/*Try some styling*/
+.osRTldirection {
+    direction: rtl !important;
+}
+.osLTRdirection {
+    direction: ltr !important;
+}
